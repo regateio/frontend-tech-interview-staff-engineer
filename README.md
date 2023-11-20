@@ -23,8 +23,8 @@ You will NOT be tested on the design part, so keep it simple and pleasant for yo
 - React v18.x (https://reactjs.org/)
 - Typescript v5.x (https://typescriptlang.org/)
 - Do tests via React Testing Library
-- Client side routing (Next.js, React Router, TanStack Router, etc...)
-- React Hooks library for data fetching (React Query, SWR, etc...)
+- Client side routing (Next.js, React Router, TanStack Router, etc.)
+- React Hooks library for data fetching (React Query, SWR, etc.)
 
 ### Bonus
 
@@ -34,8 +34,10 @@ You will NOT be tested on the design part, so keep it simple and pleasant for yo
 
 For libraries:
 
-- CSS-in-JS library (Styled Components, Emotion, Panda, etc...)
-- Spring physics animation library (Framer Motion, React Spring, etc...)
+- CSS-in-JS library (Styled Components, Emotion, Panda, etc.)
+- Spring physics animation library (Framer Motion, React Spring, etc.)
+
+You can of course extend it as much as you want (extra libraries, features, etc.)
 
 ## Submission
 
